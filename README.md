@@ -1,4 +1,4 @@
-# gestion-parcours
+# pac-charlie
 ### FR
 Un remake du jeu vidéo classique "PacMan" en Python et avec l'aide de la librairie PyGame.
 
